@@ -10,3 +10,4 @@
 
 **Описание базы данных, включая ER-диаграмму** - [data-overview.md](data-overview.md)
 
+**Выполненные задания** - [sql-tasks.md](sql-tasks.md)
